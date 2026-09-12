@@ -216,7 +216,7 @@ export default function Solucao() {
               Pequenas ações, todos os dias.
             </h2>
             <p className="mt-5 text-base leading-7 text-zinc-600 sm:text-lg">
-              A Soulie transforma sustentabilidade em passos simples e possíveis.
+              Na Soulie, sustentabilidade cabe na rotina e começa com pequenos passos.
             </p>
           </div>
 

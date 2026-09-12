@@ -206,7 +206,8 @@ export default function Contato() {
                 <div>
                   <p className="font-bold">Mensagem enviada com sucesso!</p>
                   <p className="mt-1 text-sm leading-6 text-emerald-800">
-                    Obrigado pelo contato. Sua mensagem foi validada e recebida nesta página.
+                Obrigado por entrar em contato! Recebemos sua mensagem e ficamos felizes em ter você por aqui.
+
                   </p>
                 </div>
               </div>
