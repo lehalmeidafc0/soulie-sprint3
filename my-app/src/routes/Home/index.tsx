@@ -430,7 +430,7 @@ export default function Home() {
             Sua jornada continua
           </p>
           <h2 className="mt-4 max-w-4xl text-4xl font-black tracking-[-0.04em] text-violet-950 sm:text-5xl lg:text-6xl">
-            Quer fazer parte dessa jornada?
+            Seu próximo capítulo começa aqui. Vem com a gente!
           </h2>
           <p className="mx-auto mt-5 max-w-2xl text-base leading-7 text-violet-950/70 sm:text-lg">
             Converse com a gente e conheça melhor a proposta da Soulie.
